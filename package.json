@@ -1,0 +1,16 @@
+{
+  "name": "pokalert",
+  "version": "1.0.0",
+  "description": "Sends us emails when pokemon show up",
+  "main": "app.js",
+  "dependencies": {
+    "nodemailer": "^2.5.0",
+    "pokego-scan": "^0.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
