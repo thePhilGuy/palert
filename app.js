@@ -13,6 +13,7 @@ var trainers = [
     "example2@email.com",
 ];
 
+// set high priority pokemon here, you will get an email for 1 pokemon being around
 var highPriority = [
     "Lickitung",
     "Charizard",
@@ -40,6 +41,7 @@ var highPriority = [
     "Aerodactyl",
     "Kadabra" ];
 
+// set low priority pokemon here, you will only get an email for 3 pokemon
 var lowPriority = [
     "Growlithe",
     "Ponyta",
